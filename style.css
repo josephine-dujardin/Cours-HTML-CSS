@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('CSS/opensans/OpenSans-Regular-webfont.eot');
+    src: url('CSS/opensans/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CSS/opensans/OpenSans-Regular-webfont.woff2') format('woff2'),
+         url('CSS/opensans/OpenSans-Regular-webfont.woff') format('woff'),
+         url('CSS/opensans/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('CSS/opensans/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*
+{
+    font-family: 'open_sansregular', Arial, serif;
+}
+
+h1
+{
+    color: rgb(255,0,128); font-size: 3em;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+figcaption
+{
+    text-align: center;
+}
+
+ul
+{
+    border-style: double;
+}
+
+ul
+{
+    border-color: rgb(255,0,128);
+}
+
+ul
+{
+    border-radius: 10px;
+}
+
+ul
+{
+    box-shadow: 6px 6px 6px grey;
+    color: rgb(53,53,53);
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: pink;
+    font-style: unset;
+}
+
+
+p
+{
+    color: rgb(53,53,53);
+}
+
+h1, p
+{
+    text-align: center;
+}
